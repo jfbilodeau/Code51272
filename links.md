@@ -102,3 +102,9 @@ Azure Event Hubs quick start:
 * https://github.com/MicrosoftDocs/azure-docs/tree/main/articles/event-hubs
 
 # Day 5
+
+Kusto Query Language
+* https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/
+
+Exam sand box
+* https://aka.ms/ExamDemo
